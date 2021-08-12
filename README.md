@@ -1,4 +1,4 @@
-### olá Sou o Vinicius Martins  👋
+### Olá sou o Vinicius Martins  👋
 
 <div>
   <a href="https://github.com/viniciusmartins21">
